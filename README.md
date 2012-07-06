@@ -1,6 +1,6 @@
 # Sublime text language support for Elixir
 
-![http://f.cl.ly/items/1Y0E0n162X1y450D2g1V/Screen%20Shot%202012-07-06%20at%203.19.53%20PM.png]()
+![Screenshot](http://f.cl.ly/items/1Y0E0n162X1y450D2g1V/Screen%20Shot%202012-07-06%20at%203.19.53%20PM.png)
 
 ## Installation
 
